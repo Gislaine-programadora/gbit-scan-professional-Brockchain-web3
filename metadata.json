@@ -1,0 +1,7 @@
+{
+  "name": "GBIT Scan Professional",
+  "description": "A high-performance, professional blockchain explorer for the GBIT Network, featuring real-time transaction tracking, block monitoring, and AI-powered smart contract insights.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
